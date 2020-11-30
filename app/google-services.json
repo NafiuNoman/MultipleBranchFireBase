@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "667406688869",
+    "firebase_url": "https://dataimputfirebase.firebaseio.com",
+    "project_id": "dataimputfirebase",
+    "storage_bucket": "dataimputfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667406688869:android:e0bbec94d095426daa1c8c",
+        "android_client_info": {
+          "package_name": "com.example.dataimputfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667406688869-vqfmu0amlhtdt8j06pmmotvi0mfbvbhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCYOeoODzRTBaTziJe2IHUnpd5xiaK-9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667406688869-vqfmu0amlhtdt8j06pmmotvi0mfbvbhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
